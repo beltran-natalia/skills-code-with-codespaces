@@ -1,0 +1,4 @@
+{
+    "name": "Basic Dev Environment",
+    "image": "mcr.mocrosoft.com/devcontainer/base:debian"
+}
